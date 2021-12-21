@@ -1,0 +1,12 @@
+E:\School Data\高等作業系統\Homework 1\AOS Homework 1\AOSHomework\bin\Release\AOSHomework.exe.config
+E:\School Data\高等作業系統\Homework 1\AOS Homework 1\AOSHomework\bin\Release\AOSHomework.exe
+E:\School Data\高等作業系統\Homework 1\AOS Homework 1\AOSHomework\bin\Release\AOSHomework.pdb
+E:\School Data\高等作業系統\Homework 1\AOS Homework 1\AOSHomework\obj\Release\AOSHomework.csproj.AssemblyReference.cache
+E:\School Data\高等作業系統\Homework 1\AOS Homework 1\AOSHomework\obj\Release\AOSHomework.csproj.SuggestedBindingRedirects.cache
+E:\School Data\高等作業系統\Homework 1\AOS Homework 1\AOSHomework\obj\Release\AOSHomework.DataForm.resources
+E:\School Data\高等作業系統\Homework 1\AOS Homework 1\AOSHomework\obj\Release\AOSHomework.MainForm.resources
+E:\School Data\高等作業系統\Homework 1\AOS Homework 1\AOSHomework\obj\Release\AOSHomework.Properties.Resources.resources
+E:\School Data\高等作業系統\Homework 1\AOS Homework 1\AOSHomework\obj\Release\AOSHomework.csproj.GenerateResource.cache
+E:\School Data\高等作業系統\Homework 1\AOS Homework 1\AOSHomework\obj\Release\AOSHomework.csproj.CoreCompileInputs.cache
+E:\School Data\高等作業系統\Homework 1\AOS Homework 1\AOSHomework\obj\Release\AOSHomework.exe
+E:\School Data\高等作業系統\Homework 1\AOS Homework 1\AOSHomework\obj\Release\AOSHomework.pdb
